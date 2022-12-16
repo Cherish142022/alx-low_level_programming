@@ -7,7 +7,6 @@
  * Return: void
  */
 
-
 void 7print_diagonal(int n)
 {
 	int i, j;
