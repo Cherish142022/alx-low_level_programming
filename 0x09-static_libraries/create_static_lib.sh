@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc _Wall _pedantic _Werror _Wextra _std =gnura _c *.c
+gcc -Wall -pedantic -Werror -Wextra -c *.c
 ar _rc liball.a *.o
